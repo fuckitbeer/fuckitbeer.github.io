@@ -7,7 +7,11 @@
 }
 
 .ourstory-ceo {
-    padding-top: 15vh;
-    height: 5vh;
-    width: 5vh;
+    padding-top: 23vh;
+}
+
+.ourstory-ceo-img {
+    margin-left: 10vh;
+    height: 35vh;
+    width: 35vh;
 }
